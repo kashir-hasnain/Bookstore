@@ -1,0 +1,19 @@
+.inp{
+    margin: 5px;
+}
+#assignment-submission{
+    margin: 10px;
+}
+@media screen and (min-width: 1000px){
+    #side-bar{
+        width: 25%;
+    }
+    #all-container{
+        display: flex;
+    }
+    #lecture-assignments{
+        margin-left: 40px;
+        margin-top: 20px;
+        width: 75%;
+    }
+}

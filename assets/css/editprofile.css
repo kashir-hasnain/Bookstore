@@ -1,0 +1,46 @@
+/*
+#pic-div{
+    background-color: rgba(189, 135, 252, 0.288);
+    border-radius: 20px;
+}
+#info-div{
+    background-color: rgba(189, 135, 252, 0.288);
+    border-radius: 20px;
+}
+
+
+
+@media only screen and (min-width: 768px){
+    #pic-div{
+        width: 40%;
+        float: left;
+        margin: 5%;
+    }
+    #info-div{
+        width: 40%;
+        float: right;
+        margin: 5%;
+    }
+    
+}
+*/
+#img-holder{
+    width: 250px;
+    height: 250px;
+}
+
+@media only screen and (min-width: 768px){
+    #pic-div{
+        width: 45%;
+        margin-left: 5%;
+    }
+    #info-div{
+        width: 45%;
+        margin-right: 5%;
+    }
+    #main-div{
+        display: flex;
+        margin-top: 20px;
+    }
+    
+}

@@ -1,0 +1,30 @@
+
+.inp{
+    margin: 10px;
+}
+#side-bar{
+    margin: 10px;
+}
+
+@media screen and (min-width: 1000px){
+    #side-bar{
+        width: 25%;
+    }
+    #all-container{
+        display: flex;
+    }
+    #lecture-assignments{
+        margin-left: 40px;
+        margin-top: 20px;
+        width: 75%;
+    }
+    #assignments{
+        display: flex;
+    }
+    #lecture{
+        display: flex;
+    }
+    .card{
+        width: 50%;
+    }
+}

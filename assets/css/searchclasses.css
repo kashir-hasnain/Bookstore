@@ -1,0 +1,28 @@
+#search-div{
+    padding: 10px;
+    background-color: darkgray;
+    border-radius: 10px;
+}
+#search-result{
+    padding: 10px;
+    
+}
+#all-container{
+    margin: 20px;
+}
+
+
+.class-box{
+    margin: 5%;
+}
+
+@media screen and (min-width: 1000px){
+    .class-box{
+        margin: 1%;
+        width: 23%;
+    }
+    #search-result{
+        display: flex;
+    }
+}
+
