@@ -1,6 +1,7 @@
+<a href="https://www.codefactor.io/repository/github/kashir-hasnain/bookstore"><img src="https://www.codefactor.io/repository/github/kashir-hasnain/bookstore/badge" alt="CodeFactor" /></a>
 # Bookstore
 Bookstore with php(database)
-<a href="https://www.codefactor.io/repository/github/kashir-hasnain/bookstore"><img src="https://www.codefactor.io/repository/github/kashir-hasnain/bookstore/badge" alt="CodeFactor" /></a>
+
 localhost network....2 sites staff side and admin side Installation Steps(Configuration)
 
 Download XAMPP and INSTALL IT IN YOUR MACHINE.
